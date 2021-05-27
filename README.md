@@ -1,2 +1,2 @@
 # Tetris Simple Game
-Aici ceti gasi codul pe care vi lam aratat in video. Va puteti juca cu el pentru a vedea cum functioneaza.
+You can find it [here](http://5acbcd5dda09.ngrok.io/)
